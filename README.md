@@ -22,6 +22,7 @@ Previsão de Hoje 23/08 Três Marias - MG
 
 ------------------------------------------------------------
 Previsão de Hoje 23/08 Contagem - MG 
+
     Temperatura Mínima: 11° 
     Temperatura Máxima: 28° 
     Chuva: 0mm - 0% 
@@ -30,6 +31,7 @@ Previsão de Hoje 23/08 Contagem - MG
     Sol: 06:12h 17:46h
 ------------------------------------------------------------
 Previsão de Hoje 23/08 Lençóis Paulista - SP 
+
     Temperatura Mínima: 19° 
     Temperatura Máxima: 35° 
     Chuva: 0mm - 0% 

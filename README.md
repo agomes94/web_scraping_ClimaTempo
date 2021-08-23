@@ -14,15 +14,10 @@ Resultados:
 Previsão de Hoje 23/08 Três Marias - MG
 
     Temperatura Mínima: 15°
-
     Temperatura Máxima: 30°
-
     Chuva: 0mm - 0%
-
     Vento: NNE - 13km/h
-
     Umidade 22% - 61%
-
     Sol: 06:16h 17:52h
 
 ------------------------------------------------------------
